@@ -2,7 +2,7 @@
     "name": "mstefan/php-ecrecover",
     "description": "PHP ECRecover Example",
     "keywords": ["ecrecover"],
-    "license": "CC0",
+    "license": "CC0-1.0",
     "authors": [
         {
             "name": "Hunter Wu",
